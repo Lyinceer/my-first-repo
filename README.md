@@ -1,14 +1,17 @@
 ## Testing  
 This repository is used for practicing and testing backend concepts.  
 
-## Purpose  
+## Purpose
 - Learning
 - Experimenting
 - Improving backend skills
 
 ## Status  
-Work in progress.
+Work in progress.  
 
 ## Project structure  
+
+```
 my-first-repo/
 │── README.md
+```
