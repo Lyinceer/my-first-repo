@@ -13,5 +13,6 @@ Work in progress.
 
 ```
 my-first-repo/
+│── my-first-repo
 │── README.md
 ```
